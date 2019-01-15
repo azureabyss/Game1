@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 6c75d5847dbb6ff4aa9a8ae9df893159
+timeCreated: 1547368291
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.002_end
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.004_end
+    100014: Bone.005
+    100016: Bone.005_L
+    100018: Bone.005_L.001
+    100020: Bone.005_L.002
+    100022: Bone.005_L.002_end
+    100024: Bone.005_R
+    100026: Bone.005_R.001
+    100028: Bone.005_R.002
+    100030: Bone.005_R.002_end
+    100032: Bone.006
+    100034: Bone.006_end
+    100036: Bone.007
+    100038: Bone_L
+    100040: Bone_L.001
+    100042: Bone_L.002
+    100044: Bone_L.003
+    100046: Bone_L.004
+    100048: Bone_L.004_end
+    100050: Bone_L.005
+    100052: Bone_L.006
+    100054: Bone_L.007
+    100056: Bone_L.007_end
+    100058: Bone_L.008
+    100060: Bone_L.009
+    100062: Bone_L.010
+    100064: Bone_L.010_end
+    100066: Bone_L.011
+    100068: Bone_L.012
+    100070: Bone_L.013
+    100072: Bone_L.013_end
+    100074: Bone_L.014
+    100076: Bone_L.015
+    100078: Bone_L.015_end
+    100080: Bone_L.016
+    100082: Bone_R
+    100084: Bone_R.001
+    100086: Bone_R.002
+    100088: Bone_R.003
+    100090: Bone_R.004
+    100092: Bone_R.004_end
+    100094: Bone_R.005
+    100096: Bone_R.006
+    100098: Bone_R.007
+    100100: Bone_R.007_end
+    100102: Bone_R.008
+    100104: Bone_R.009
+    100106: Bone_R.010
+    100108: Bone_R.010_end
+    100110: Bone_R.011
+    100112: Bone_R.012
+    100114: Bone_R.013
+    100116: Bone_R.013_end
+    100118: Bone_R.014
+    100120: Bone_R.015
+    100122: Bone_R.015_end
+    100124: Bone_R.016
+    100126: //RootNode
+    100128: "\u773C"
+    100130: "\u773C\u73E0"
+    100132: "\u7FC5\u8180"
+    100134: "\u7FC5\u819C"
+    100136: "\u8033"
+    100138: "\u8116\u5B50"
+    100140: "\u8173"
+    100142: "\u8EAB\u9AD4"
+    100144: "\u982D"
+    100146: "\u9AA8\u67B6"
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.002_end
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.004_end
+    400014: Bone.005
+    400016: Bone.005_L
+    400018: Bone.005_L.001
+    400020: Bone.005_L.002
+    400022: Bone.005_L.002_end
+    400024: Bone.005_R
+    400026: Bone.005_R.001
+    400028: Bone.005_R.002
+    400030: Bone.005_R.002_end
+    400032: Bone.006
+    400034: Bone.006_end
+    400036: Bone.007
+    400038: Bone_L
+    400040: Bone_L.001
+    400042: Bone_L.002
+    400044: Bone_L.003
+    400046: Bone_L.004
+    400048: Bone_L.004_end
+    400050: Bone_L.005
+    400052: Bone_L.006
+    400054: Bone_L.007
+    400056: Bone_L.007_end
+    400058: Bone_L.008
+    400060: Bone_L.009
+    400062: Bone_L.010
+    400064: Bone_L.010_end
+    400066: Bone_L.011
+    400068: Bone_L.012
+    400070: Bone_L.013
+    400072: Bone_L.013_end
+    400074: Bone_L.014
+    400076: Bone_L.015
+    400078: Bone_L.015_end
+    400080: Bone_L.016
+    400082: Bone_R
+    400084: Bone_R.001
+    400086: Bone_R.002
+    400088: Bone_R.003
+    400090: Bone_R.004
+    400092: Bone_R.004_end
+    400094: Bone_R.005
+    400096: Bone_R.006
+    400098: Bone_R.007
+    400100: Bone_R.007_end
+    400102: Bone_R.008
+    400104: Bone_R.009
+    400106: Bone_R.010
+    400108: Bone_R.010_end
+    400110: Bone_R.011
+    400112: Bone_R.012
+    400114: Bone_R.013
+    400116: Bone_R.013_end
+    400118: Bone_R.014
+    400120: Bone_R.015
+    400122: Bone_R.015_end
+    400124: Bone_R.016
+    400126: //RootNode
+    400128: "\u773C"
+    400130: "\u773C\u73E0"
+    400132: "\u7FC5\u8180"
+    400134: "\u7FC5\u819C"
+    400136: "\u8033"
+    400138: "\u8116\u5B50"
+    400140: "\u8173"
+    400142: "\u8EAB\u9AD4"
+    400144: "\u982D"
+    400146: "\u9AA8\u67B6"
+    2100000: "\u6750\u8CEA.004"
+    2100002: "\u6750\u8CEA.002"
+    2100004: "\u6750\u8CEA"
+    2100006: "\u6750\u8CEA.003"
+    2100008: "\u6750\u8CEA.001"
+    2100010: "\u6750\u8CEA.006"
+    2100012: "\u6750\u8CEA.008"
+    2100014: "\u6750\u8CEA.005"
+    4300000: "\u8EAB\u9AD4"
+    4300002: "\u8116\u5B50"
+    4300004: "\u982D"
+    4300006: "\u773C"
+    4300008: "\u773C\u73E0"
+    4300010: "\u8033"
+    4300012: "\u8173"
+    4300014: "\u7FC5\u819C"
+    4300016: "\u7FC5\u8180"
+    7400000: "\u9AA8\u67B6|CameraAction"
+    7400002: "\u9AA8\u67B6|\u9AA8\u67B6Action"
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: "\u773C"
+    13700002: "\u773C\u73E0"
+    13700004: "\u7FC5\u8180"
+    13700006: "\u7FC5\u819C"
+    13700008: "\u8033"
+    13700010: "\u8116\u5B50"
+    13700012: "\u8173"
+    13700014: "\u8EAB\u9AD4"
+    13700016: "\u982D"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA"
+    second: {fileID: 2100000, guid: cafc969b156905d4e9c6a121bdf7038f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.001"
+    second: {fileID: 2100000, guid: c82c919d9cf64b842b89a5bd39efdef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.002"
+    second: {fileID: 2100000, guid: a395be5333752d143a96e7363f03a34b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.003"
+    second: {fileID: 2100000, guid: e0bd8ab24b1f7b54ba57d444ae07e594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.004"
+    second: {fileID: 2100000, guid: dfefecc56a1215f44b3f9ded759d94a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.005"
+    second: {fileID: 2100000, guid: 0e70611265bcaa6448e466d18797be04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.006"
+    second: {fileID: 2100000, guid: c0561a84d55bbc245ac1bc677118658c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA.008"
+    second: {fileID: 2100000, guid: 466102049928d1f4eb9eee66613921ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "\u9AA8\u67B6|\u9AA8\u67B6Action"
+      takeName: "\u9AA8\u67B6|\u9AA8\u67B6Action"
+      firstFrame: 0
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
